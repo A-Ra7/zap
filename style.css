@@ -618,6 +618,10 @@ h1 {
         width: 300px;
     }
 
+    .zap-window {
+        width: 90%;
+    }
+
     .logon {
         display: block;
     }
