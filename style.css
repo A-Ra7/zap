@@ -455,16 +455,16 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    padding: 10px -20px;
+    padding: 10px 20px;
     background: linear-gradient(to bottom, rgb(87, 247, 255), rgb(113, 103, 252));
     border: solid 3px rgb(242, 90, 244);
     box-shadow: 0 7px 12px 0 rgba(128, 22, 119, 0.3);
     border-radius: 12px;
-    font-size: 27px;
+    font-size: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 90%;
+    width: 75%;
     text-align: center;
 }
 
